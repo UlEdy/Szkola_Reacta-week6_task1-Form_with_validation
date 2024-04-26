@@ -5,5 +5,7 @@ This project consists of a simple form with email and password inputs, featuring
 To start the project, follow these steps:
 
 Open a terminal.
+Type the following command to install dependencies:
+`npm install`
 Type the following command:
 `npm start`
